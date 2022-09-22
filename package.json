@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yozarku/cai-dat-du-an-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yozarku/cai-dat-du-an-2/issues"
+  },
+  "homepage": "https://github.com/Yozarku/cai-dat-du-an-2#readme"
 }
